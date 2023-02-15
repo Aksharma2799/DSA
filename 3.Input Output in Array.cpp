@@ -3,9 +3,10 @@ using namespace std;
 
 int main() {
 
-//Taking input in array
+
 
 int arr[5];
+//Taking input in array
 cout<<"Enter the values of array" << endl;
 for(int i = 0; i<5; i++){
   cin >> arr[i];
